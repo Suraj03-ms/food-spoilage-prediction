@@ -43,8 +43,6 @@ The dataset used in this project is not included in the repository due to size c
 
 The trained machine learning model file (.pkl) is excluded from the repository due to its large size.
 
-Model Link:
-(Add your model download link here)
 
 🖥️ Usage
 Start the Flask server
