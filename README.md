@@ -39,9 +39,6 @@ python app.py
 
 The dataset used in this project is not included in the repository due to size constraints.
 
-Dataset Link:
-(Add your dataset link here)
-
 🤖 Model
 
 The trained machine learning model file (.pkl) is excluded from the repository due to its large size.
